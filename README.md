@@ -21,6 +21,14 @@ An integration-ready Vivado MCP toolkit for AI agents, focused on practical loca
 - end-to-end local FPGA workflow support
 - organized for AI-driven automation
 
+### [fpga-fast-validation-kit](https://github.com/taomcp/fpga-fast-validation-kit)
+
+A fast-validation toolkit for FPGA RTL and AI-agent workflows, turning open-source simulators into a cleaner, faster pre-Vivado verification loop.
+
+- earlier RTL issue detection
+- cleaner pre-Vivado validation workflow
+- built around practical local automation
+
 ## Focus
 
 - FPGA development workflows
