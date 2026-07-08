@@ -1,4 +1,4 @@
-# Yao Tao
+# RK-Hub
 
 Building FPGA, MATLAB, and AI agent tooling.
 
@@ -6,7 +6,7 @@ I build practical local workflows that let AI do more of the real engineering lo
 
 ## Featured Repositories
 
-### [matlab-mcp](https://github.com/taomcp/matlab-mcp)
+### [matlab-mcp](https://github.com/RepoKey/matlab-mcp)
 
 A file-based MATLAB bridge for AI agents that cuts token usage and speeds up figure and data validation.
 
@@ -14,14 +14,14 @@ A file-based MATLAB bridge for AI agents that cuts token usage and speeds up fig
 - no Python runtime required
 - easy to adopt and inspect
 
-### [vivado-mcp-integration-kit](https://github.com/taomcp/vivado-mcp-integration-kit)
+### [vivado-mcp-integration-kit](https://github.com/RepoKey/vivado-mcp-integration-kit)
 
 An integration-ready Vivado MCP toolkit for AI agents, focused on practical local workflows across editing, faster simulation, synthesis, implementation analysis, bitstream generation, and ILA-oriented debug.
 
 - end-to-end local FPGA workflow support
 - organized for AI-driven automation
 
-### [fpga-fast-validation-kit](https://github.com/taomcp/fpga-fast-validation-kit)
+### [fpga-fast-validation-kit](https://github.com/RepoKey/fpga-fast-validation-kit)
 
 A fast-validation toolkit for FPGA RTL and AI-agent workflows, turning open-source simulators into a cleaner, faster pre-Vivado verification loop.
 
