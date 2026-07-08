@@ -1,4 +1,4 @@
-# RK-Hub
+# RepoKey
 
 Building FPGA, MATLAB, and AI agent tooling.
 
